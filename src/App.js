@@ -10,7 +10,7 @@ const App = () => {
 
   // Fetch data on component mount
   useEffect(() => {
-    fetch('/data.json')
+    fetch("https://maflacs.github.io/frontend-mentor-time-tracking-dashboard/data.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error('Network response was not ok');
