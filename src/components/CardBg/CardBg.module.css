@@ -1,0 +1,13 @@
+/* Container for card background with flex layout and background styling */
+.cardBg {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-top: 2rem;
+  background-position-x: 90%;
+  background-position-y: -10%;
+  background-repeat: no-repeat;
+  border-radius: 10px 10px 20px 20px;
+}
+
+  
