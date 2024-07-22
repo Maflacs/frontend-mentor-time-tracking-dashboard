@@ -4,7 +4,7 @@
   overflow: hidden;
   color: white;
   border-radius: 10px;
-  width: 200px;
+  width: 17rem;
   padding-bottom: 1rem;
 }
 
@@ -31,7 +31,7 @@ header {
 .details {
   background: transparent;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 1.5rem;
 }
 
 /* Details button hover effect: changing text color on hover */
@@ -41,19 +41,19 @@ header {
 
 /* Card title: setting font size */
 .cardContent h2 {
-  font-size: 12px;
+  font-size: 1rem;
 }
 
 /* Current hours text: setting font size, margin, and font weight */
 .current {
-  font-size: 40px;
+  font-size: 4rem;
   margin: 0;
   font-weight: 300;
 }
 
 /* Previous hours text: setting font size and color */
 .previous {
-  font-size: 12px;
+  font-size: 1rem;
   color: var(--desaturated-blue);
 }
 

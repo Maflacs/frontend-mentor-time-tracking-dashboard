@@ -48,6 +48,7 @@ button:hover {
     gap: 1rem;
     width: 300px;
     margin: 3rem 0;
+    width: 90%;
   }
 
   body {

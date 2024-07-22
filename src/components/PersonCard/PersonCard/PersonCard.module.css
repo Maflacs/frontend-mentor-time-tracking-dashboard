@@ -15,14 +15,14 @@
 
 /* Styling for paragraph text inside the person card: font size, color, and margin. */
 .personCard p {
-    font-size: 12px;
+    font-size: 1rem;
     color: var(--pale-blue);
     margin-bottom: 0;
 }
 
 /* Styling for the heading inside the person card: font size, weight, color, and margin. */
 .personCard h1 {
-    font-size: 30px;
+    font-size: 2.7rem;
     font-weight: 300;
     color: var(--pale-blue);
     margin-top: 0;
@@ -33,18 +33,18 @@
     background-color: var(--blue);
     padding: 2rem 0 2rem 2rem;
     border-radius: 10px;
-    width: 200px;
+    width: 15rem;
 }
 
 /* Padding for the period section of the card. */
 .period {
-    padding-left: 2rem;
-    padding-bottom: 1rem;
+    padding: 1rem 0 0 1rem;
 }
 
 /* Margin top for buttons within the timeframes section. */
 .timeframes button {
     margin-top: 1rem;
+    font-size: 1rem;
 }
 
 /* Styling for active timeframe button: white text color. */

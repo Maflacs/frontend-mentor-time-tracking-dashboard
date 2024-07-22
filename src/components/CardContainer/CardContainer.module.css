@@ -13,6 +13,7 @@
   justify-content: stretch; 
   align-content: stretch; 
   align-items: stretch; 
+  
 }
 
 /* Single column grid layout with 6 rows for .cardContainer on screens 1000px wide or smaller. */
